@@ -1,0 +1,25 @@
+{
+  "name": "list-to-hash",
+  "version": "1.0.0",
+  "description": "Create a hash Object with keys from an Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://brycehanscomb@github.com/brycehanscomb/list-to-hash.git"
+  },
+  "keywords": [
+    "list",
+    "hash",
+    "array",
+    "object"
+  ],
+  "author": "Bryce Hanscomb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycehanscomb/list-to-hash/issues"
+  },
+  "homepage": "https://github.com/brycehanscomb/list-to-hash#readme"
+}
